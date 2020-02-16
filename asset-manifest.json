@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-cloudy/static/css/main.01980345.chunk.css",
+    "main.js": "/react-cloudy/static/js/main.15601e94.chunk.js",
+    "main.js.map": "/react-cloudy/static/js/main.15601e94.chunk.js.map",
+    "runtime-main.js": "/react-cloudy/static/js/runtime-main.f812686d.js",
+    "runtime-main.js.map": "/react-cloudy/static/js/runtime-main.f812686d.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/react-cloudy/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.729b96ff.chunk.js": "/react-cloudy/static/js/2.729b96ff.chunk.js",
+    "static/js/2.729b96ff.chunk.js.map": "/react-cloudy/static/js/2.729b96ff.chunk.js.map",
+    "index.html": "/react-cloudy/index.html",
+    "precache-manifest.ca002609ee7491d5812665f00866e7b7.js": "/react-cloudy/precache-manifest.ca002609ee7491d5812665f00866e7b7.js",
+    "service-worker.js": "/react-cloudy/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/react-cloudy/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.01980345.chunk.css.map": "/react-cloudy/static/css/main.01980345.chunk.css.map",
+    "static/js/2.729b96ff.chunk.js.LICENSE.txt": "/react-cloudy/static/js/2.729b96ff.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/react-cloudy/static/media/bg.b6796c73.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f812686d.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.729b96ff.chunk.js",
+    "static/css/main.01980345.chunk.css",
+    "static/js/main.15601e94.chunk.js"
+  ]
+}
